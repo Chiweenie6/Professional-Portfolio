@@ -1,0 +1,55 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #97D2EC;
+}
+
+a {
+    display: block;
+    
+    
+}
+
+.profile_picture {
+    width: 150px;
+    height: 200px;
+}
+
+h1 {
+    color: #367E18;
+}
+
+header {
+
+}
+
+section{
+
+}
+
+main {
+
+}
+
+.work {
+    display: flex;
+    flex-direction: row; 
+}
+
+.project {
+    display: block;
+    margin: 0 5%;
+    border-style: dashed red 5px;
+}
+
+.workImage {
+    width: 150px;
+    height: 100px;
+    display: flex; 
+}
+
+
+
+footer h3, h4{
+    background-color: lightsalmon;
+
+}
