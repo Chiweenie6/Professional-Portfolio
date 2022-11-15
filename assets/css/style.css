@@ -3,9 +3,15 @@
     background-color: #97D2EC;
 }
 
+.navigation {
+    display: inline-block;
+    display: flex;
+    justify-content: right;
+}
+
 a {
     display: block;
-    
+    margin: 5px 5px;
     
 }
 
@@ -19,6 +25,7 @@ h1 {
 }
 
 header {
+    
 
 }
 
@@ -33,18 +40,22 @@ main {
 .work {
     display: flex;
     flex-direction: row; 
+    flex-wrap: wrap;
 }
 
 .project {
     display: block;
     margin: 0 5%;
-    border-style: dashed red 5px;
+    
 }
-
+.workImage1 {
+    width: 450px;
+    height: 300px;
+}
 .workImage {
     width: 150px;
     height: 100px;
-    display: flex; 
+    
 }
 
 
