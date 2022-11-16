@@ -3,7 +3,8 @@
 }
 
 header {
-    background-image: url(./sky3.jpg);
+    background-image: url(./sunSky.jpg);
+    /* background-size: contain; */
     background-size: cover;
     text-align: center;
 }
@@ -12,8 +13,8 @@ header {
     display: inline-block;
     display: flex;
     justify-content: right;
-    background-image: url(./rain14.jpg);
-    /* background-size: cover; */
+    background-image: url(./rainfall.jpg);
+    background-size: contain;
     text-shadow: -10px -10px 10px white;
     padding: 30px;
 }
@@ -62,10 +63,13 @@ h1 {
 }
 
 .aboutMe {
-    background-image: url(./wood.jpg);
-    /* background-size: cover; */
+    background-image: url(./darkWood.jpg);
+    background-size: cover;
     color: #fff;
-    font-weight: 550;
+}
+.aboutMe h2 {
+    margin-top: 0;
+    text
 }
 
 main {
