@@ -2,11 +2,18 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header {
+    background-image: url(./sky3.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
 .navigation {
     display: inline-block;
     display: flex;
     justify-content: right;
-    background-image: url(./binary2.jpg);
+    background-image: url(./dirt2.jpg);
+    text-shadow: 5px 5px 5px black;
 }
 
 a {
@@ -28,11 +35,12 @@ a {
 
 .hello {
     display: inline-block; 
+    /* text-align: center; */
+    text-shadow: 1px -1px 1px black;
 }
 
 .welcome {
     position: relative;
-    text-align: center;
 }
 
 .tRex {
@@ -48,16 +56,23 @@ a {
     transform: translate(-50%, -50%);
 }
 
-
 h1 {
     color: #367E18;
 }
 
-header {
-    background-color: #ABD9FF;
+.aboutMe {
+    background-image: url(./yellow.jpg);
+    /* background-size: cover; */
+    color: black;
+    font-weight: 550;
+    /* background-color: #FDFF00; */
 }
 
 main {
+    text-shadow: 5px 5px 5px #367E18;
+    color: #fff;
+    background-image: url(./leaf.jpg);
+    /* background-size: cover; */
 
 }
 
@@ -69,27 +84,41 @@ main {
 
 .project {
     display: block;
-    margin: 0 5%;
-    
+    margin: 0 5%; 
 }
+
+.project h3 {
+     text-decoration: underline 5px black;
+}
+
+.project img {
+    opacity: 0.5;
+    border: 10px solid black;
+  }
+  
+  .project img:hover {
+    opacity: 1.0;
+  }
+
 .workImage1 {
     width: 450px;
     height: 300px;
 }
+
 .workImage {
     width: 150px;
     height: 100px;
-    
 }
-
-
 
 footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: lightsalmon;
+    background-image: url(./dirt2.jpg);
+    color: #FDFF00;
+    text-shadow: 5px 5px 5px black;
 }
-footer h4 {
+
+footer a, h4 {
     margin: 20px 50px;
 }
