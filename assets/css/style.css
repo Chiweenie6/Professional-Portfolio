@@ -12,8 +12,10 @@ header {
     display: inline-block;
     display: flex;
     justify-content: right;
-    background-image: url(./dirt2.jpg);
-    text-shadow: 5px 5px 5px black;
+    background-image: url(./rain14.jpg);
+    /* background-size: cover; */
+    text-shadow: -10px -10px 10px white;
+    padding: 30px;
 }
 
 a {
@@ -29,8 +31,7 @@ a {
     height: 200px;
     border-radius: 50%;
     box-shadow: -10px -10px 10px black;
-    margin: 0 20px;
-    
+    margin: 0 20px;  
 }
 
 .hello {
@@ -61,11 +62,10 @@ h1 {
 }
 
 .aboutMe {
-    background-image: url(./yellow.jpg);
+    background-image: url(./wood.jpg);
     /* background-size: cover; */
-    color: black;
+    color: #fff;
     font-weight: 550;
-    /* background-color: #FDFF00; */
 }
 
 main {
@@ -117,8 +117,12 @@ footer {
     background-image: url(./dirt2.jpg);
     color: #FDFF00;
     text-shadow: 5px 5px 5px black;
+    padding: 20px;
 }
 
 footer a, h4 {
     margin: 20px 50px;
+}
+h4 a {
+    color: #7DE5ED;
 }
