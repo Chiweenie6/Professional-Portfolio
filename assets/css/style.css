@@ -56,6 +56,8 @@ a {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 25px;
+    
 }
 
 h1 {
@@ -65,11 +67,14 @@ h1 {
 .aboutMe {
     background-image: url(./darkWood.jpg);
     background-size: cover;
-    color: #fff;
+    color: #BCE29E;
 }
 .aboutMe h2 {
     margin-top: 0;
     text
+}
+.aboutMe p {
+    margin-bottom: 0;
 }
 
 main {
@@ -78,6 +83,10 @@ main {
     background-image: url(./leaf.jpg);
     /* background-size: cover; */
 
+}
+
+#myWork {
+margin-top: 0;
 }
 
 .work {
@@ -100,7 +109,7 @@ main {
     border: 10px solid black;
   }
   
-  .project img:hover {
+.project img:hover {
     opacity: 1.0;
   }
 
