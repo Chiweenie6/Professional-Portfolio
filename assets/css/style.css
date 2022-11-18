@@ -4,7 +4,6 @@
 
 header {
     background-image: url(./sunSky.jpg);
-    /* background-size: contain; */
     background-size: cover;
     text-align: center;
 }
@@ -37,7 +36,6 @@ a {
 
 .hello {
     display: inline-block; 
-    /* text-align: center; */
     text-shadow: 1px -1px 1px black;
 }
 
@@ -81,8 +79,6 @@ main {
     text-shadow: 5px 5px 5px #367E18;
     color: #fff;
     background-image: url(./leaf.jpg);
-    /* background-size: cover; */
-
 }
 
 #myWork {
@@ -138,4 +134,5 @@ footer a, h4 {
 }
 h4 a {
     color: #7DE5ED;
+    /* Make the word pop out when hovered over */
 }
