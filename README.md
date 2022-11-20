@@ -2,17 +2,17 @@
 My Work Portfolio
 
 
-##Description
+## Description
 
 This is my Professional Portfolio and it houses links to projects I have completed. These projects showcase my ability to use different coding languages and techniques to create working web pages. HTML, CSS and JavaScript are the main components applied to build these projects. Each web page shows different methods used to design and style projects. I will continue to add projects to my portfolio as I create them.
 
 The deployed URL - 
 
-##Installation
+## Installation
 
 N/A
 
-##Usage
+## Usage
 
 To show potential employers what projects I have completed and the coding techniques used to accomplish these projects. Allowing others to view my creative thinking.
 
@@ -22,11 +22,11 @@ Image:
 
 
 
-##Credits
+## Credits
 
 N/A
 
-##License
+## License
 
 MIT License
 
