@@ -6,7 +6,7 @@ My Work Portfolio
 
 This is my Professional Portfolio and it houses links to projects I have completed. These projects showcase my ability to use different coding languages and techniques to create working web pages. HTML, CSS and JavaScript are the main components applied to build these projects. Each web page shows different methods used to design and style projects. I will continue to add projects to my portfolio as I create them.
 
-The deployed URL - 
+The deployed URL - https://chiweenie6.github.io/Professional-Portfolio/
 
 ## Installation
 
