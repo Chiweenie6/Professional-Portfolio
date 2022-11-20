@@ -9,6 +9,7 @@ This is my Professional Portfolio and it houses links to projects I have complet
 The deployed URL - 
 
 ##Installation
+
 N/A
 
 ##Usage
@@ -22,6 +23,7 @@ Image:
 
 
 ##Credits
+
 N/A
 
 ##License
