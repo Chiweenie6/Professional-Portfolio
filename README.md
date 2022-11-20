@@ -14,6 +14,9 @@ N/A
 To show potential employers what projects I have completed and the coding techniques used to accomplish these projects. Allowing others to view my creative thinking.
 
 Image:
+![image](https://user-images.githubusercontent.com/113393706/202879186-8bca6549-9ff0-4c9a-9014-5a981baf5aec.png)
+
+
 
 
 ##Credits
