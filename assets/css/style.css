@@ -59,13 +59,15 @@ a {
 }
 
 h1 {
-    color: #367E18;
+    color: #fff;
+    font-weight: 700;
+    text-shadow: -2px -2px 2px black;
 }
 
 .aboutMe {
     background-image: url(./darkWood.jpg);
     background-size: cover;
-    color: #BCE29E;
+    color: #fff;
 }
 .aboutMe h2 {
     margin-top: 0;
